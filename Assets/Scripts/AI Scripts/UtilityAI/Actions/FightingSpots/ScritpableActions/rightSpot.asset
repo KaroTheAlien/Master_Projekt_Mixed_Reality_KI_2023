@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 703ce11ed737c404689e83e806e141f1, type: 3}
+  m_Name: rightSpot
+  m_EditorClassIdentifier: 
+  Name: 
+  description: 
+  considerations:
+  - {fileID: 11400000, guid: bfbd66d403f09ff4e94fd2d17622e09e, type: 2}
+  RightSpot: {fileID: 7382855320026334201, guid: d953bc330480ecf42b0f77fbf699c865, type: 3}

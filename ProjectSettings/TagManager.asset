@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerSword
+  - EnemySword
+  - Enemy
+  - Collider
+  - FightSpot
+  - PlayerSwordTip
+  - Text_UI
+  - BossHealthBar
+  - SpielerHealthBar
+  - Obstacle
+  - PlayerCollider
+  - projectile
+  - FxTemporaire
+  - TrapGrinder
+  - TrapSpinning
+  - Floor
+  - EnemySpawnLocation
+  - Ball
+  - BrokenWall
+  - DoorTorch
+  - TutorialSword
+  - RoomScanner
+  - WayPoint
+  - GrabInteractable
+  - Wall
+  - Blocker
+  - Door
+  - ParticleTag
+  - GroupBehaviourController
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - BrokenWallLayer
+  - Grabbable
+  - DoorLayer
+  - TrapLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

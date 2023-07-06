@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62fb3c58a415a66438a926a99d3dddc2, type: 3}
+  m_Name: AttackFast
+  m_EditorClassIdentifier: 
+  Name: AttackFast
+  description: "Schnelle Attacke ausf\xFChren"
+  considerations:
+  - {fileID: 11400000, guid: 2e82701a3e2446b459ac00b2c3598271, type: 2}
+  - {fileID: 11400000, guid: 65325ae4ec37d83409c6c39b9df4367e, type: 2}
+  - {fileID: 11400000, guid: e21916aa77954f6bac52e925338fe835, type: 2}

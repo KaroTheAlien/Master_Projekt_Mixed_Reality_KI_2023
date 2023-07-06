@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TutorialScene.unity
+    guid: b8bf7c85bb74139499a93f0d9a33ca5b
+  - enabled: 1
+    path: Assets/Scenes/MergeScene.unity
+    guid: 6d4e006b6c5969046a023e7fc6ec28ba
+  - enabled: 0
+    path: Assets/CybSDK/Core/Example/BaseScene.unity
+    guid: e7d52671abbc51a46a67b6b528d9b4c2
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 59f09e9f20c56c947982c587f4ad722f, type: 2}
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 51095f7756146b24994e5f1fc4f56686, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 54dcdb63206d98847854dd972d91e409, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 1c082b5a230706046a5a8ecbda14b0d4, type: 2}

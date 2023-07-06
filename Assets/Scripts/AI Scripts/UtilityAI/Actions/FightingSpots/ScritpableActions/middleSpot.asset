@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c52d1c35939d4c49be6dbd299e80888, type: 3}
+  m_Name: middleSpot
+  m_EditorClassIdentifier: 
+  Name: 
+  description: 
+  considerations:
+  - {fileID: 11400000, guid: a18ca99728b2d6f4a96544bed46ff445, type: 2}
+  MidSpot: {fileID: 7117515541095341325, guid: 73d46a38262899941887f2be8f7717d9, type: 3}

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Haptics.cs.meta
+guid: fb2f0d15776776548856a790cb0e66ad
+========
+guid: f57ba370c7a5f284399536ce81852940
+>>>>>>>> Workbranch_Michi:Assets/Scripts/DragonScripts/DragonAttack.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
